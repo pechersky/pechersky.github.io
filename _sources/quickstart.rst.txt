@@ -1,0 +1,39 @@
+An example
+----------
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 78-100 
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  6-7,10-17,19,22-34
+   
+Array creation
+--------------
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 114-122
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  6,37-44,46
+ 
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 139-142
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  48-52
+
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 148-151
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  55-59
+
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 166-179
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  62-66,68,70-74,76-77
+
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 186-189
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  80-83
+
+.. compare-tabs::
+
+   python  numpy   ../../../numpy/doc/source/user/quickstart.rst 197-201
+   haskell hmatrix ../src/quickstart/hmatrix.hs                  86-89   
+   
